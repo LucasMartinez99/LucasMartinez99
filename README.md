@@ -66,7 +66,7 @@ Backend developer focused on **Java 21 + Spring Boot 3**, with hands-on producti
 
 ## 📊 GitHub Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=LucasMartinez99)](https://git.io/streak-stats)
+<img height="180em" src="https://streak-stats.demolab.com?user=LucasMartinez99&theme=tokyonight&hide_border=true" />
 
 ---
 
