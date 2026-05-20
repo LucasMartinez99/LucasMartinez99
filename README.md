@@ -16,6 +16,7 @@
 
 Backend developer focused on **Java 21 + Spring Boot 3**, with hands-on production experience in **AWS** and **Linux server administration**. I own systems end-to-end — from writing the code to deploying, monitoring, and recovering it.
 
+- 🔄 Leading the modernization of a flagship production app: replacing a PHP/MySQL/Bootstrap monolith with a containerized Spring Boot 3 + React/TypeScript stack, applying hexagonal architecture on both sides
 - 🔭 Building portfolio projects with hexagonal architecture, PostgreSQL, and Docker
 - ☁️ AWS Certified Solutions Architect — running EC2, S3, CloudFront, VPC, RDS in production
 - 🐧 Managing Linux VPS environments: backups, snapshots, cron automation, hardening
@@ -42,12 +43,12 @@ Backend developer focused on **Java 21 + Spring Boot 3**, with hands-on producti
 
 | Certification | Issuer | Year | Verify |
 |---|---|---|---|
-| **Solutions Architect – Associate** | AWS | 2024 | [Credly](https://www.credly.com/badges/26f2d025-f86f-4e5d-8b2f-54a1ee18e68c/public_url) |
-| Scrum Foundation (SFC) | SCRUMstudy | — | [Verify](https://www.scrumstudy.com/certification/verify?type=SFC&number=1073117) |
-| English Certificate (C1/C2) | EF SET | — | [View](https://cert.efset.org/en/WBBWFw) |
-| Linux Server Management for Developers | Udemy | — | [View](https://udemy-certificate.s3.amazonaws.com/image/UC-b928de8d-836f-4bc9-9c8e-dd4ca87eb20f.jpg) |
-| React – The Complete Guide | Udemy | — | [View](https://udemy-certificate.s3.amazonaws.com/pdf/UC-9f10c4c9-37fc-4a4e-becc-3a74679d0719.pdf) |
-| HTML, CSS & Bootstrap Masterclass | Udemy | — | [View](https://udemy-certificate.s3.amazonaws.com/pdf/UC-c0c1edfe-377e-4a05-b3c9-59376b944b95.pdf) |
+| **Solutions Architect – Associate** | AWS | 2026 | [Credly](https://www.credly.com/badges/26f2d025-f86f-4e5d-8b2f-54a1ee18e68c/public_url) |
+| Scrum Foundation (SFC) | SCRUMstudy | 2025 | [Verify](https://www.scrumstudy.com/certification/verify?type=SFC&number=1073117) |
+| English Certificate (C1/C2) | EF SET | 2026 | [View](https://cert.efset.org/en/WBBWFw) |
+| Linux Server Management for Developers | Udemy | 2024 | [View](https://udemy-certificate.s3.amazonaws.com/image/UC-b928de8d-836f-4bc9-9c8e-dd4ca87eb20f.jpg) |
+| React – The Complete Guide | Udemy | 2024 | [View](https://udemy-certificate.s3.amazonaws.com/pdf/UC-9f10c4c9-37fc-4a4e-becc-3a74679d0719.pdf) |
+| HTML, CSS & Bootstrap Masterclass | Udemy | 2024 | [View](https://udemy-certificate.s3.amazonaws.com/pdf/UC-c0c1edfe-377e-4a05-b3c9-59376b944b95.pdf) |
 
 ### Roadmap
 ```text
@@ -62,10 +63,7 @@ Backend developer focused on **Java 21 + Spring Boot 3**, with hands-on producti
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LucasMartinez99&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasMartinez99&layout=compact&theme=tokyonight&hide_border=true" height="160" />
-</div>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=LucasMartinez99)](https://git.io/streak-stats)
 
 ---
 
