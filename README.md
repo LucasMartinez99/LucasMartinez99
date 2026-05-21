@@ -28,6 +28,28 @@ Backend developer focused on **Java 21 + Spring Boot 3**, with hands-on producti
 
 ---
 
+## 🚀 Featured Projects
+
+### URL Shortener — Full Stack
+> Production-deployed at **[urls.syspar.com.py](https://urls.syspar.com.py)**
+
+A full-stack URL shortener built to production standards — not just a CRUD app.
+
+**Backend** · [GitHub](https://github.com/LucasMartinez99/url-shortener)
+- Java 21 + Spring Boot 3, Hexagonal Architecture (Ports & Adapters)
+- PostgreSQL + Flyway migrations, Spring Security + JWT, Bucket4j rate limiting
+- Testcontainers integration tests (real PostgreSQL, no H2), GitHub Actions CI
+
+**Frontend** · [GitHub](https://github.com/LucasMartinez99/url-shortener-frontend)
+- React 19 + TypeScript, also structured with Hexagonal Architecture
+- TanStack Query, Zustand, Tailwind CSS, served via Nginx in Docker
+
+**Infrastructure**
+- VPS running on Linux, both services containerized with Docker Compose
+- Automated zero-downtime deploys via GitHub Actions — push to `main` → SSH → rebuild only the changed container
+
+---
+
 ## 🛠 Tech Stack
 
 **Primary stack (what I build with daily)**
@@ -56,7 +78,7 @@ Backend developer focused on **Java 21 + Spring Boot 3**, with hands-on producti
 ### Roadmap
 ```text
 [✅] AWS Certified Solutions Architect – Associate
-[🔄] Red Hat RHCSA                         ← In progress
+[🔄] Red Hat RHCSA                     ← In progress
 [ ]  CompTIA Network+
 [ ]  CKA – Certified Kubernetes Administrator
 [ ]  HashiCorp Terraform Associate
