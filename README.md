@@ -7,7 +7,7 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=LucasMartinez99&color=3B82F6&style=flat" alt="Profile Views" />
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:lucasmartinez.090599@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/lucas-software-engineer/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/Location-Asunci%C3%B3n%2C+PY+(GMT--3)-3B82F6?style=flat" />
   <img src="https://img.shields.io/badge/Open%20to%20Work-Yes-22c55e?style=flat" />
