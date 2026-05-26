@@ -70,7 +70,7 @@ A full-stack URL shortener built to production standards — not just a CRUD app
 |---|---|---|---|
 | **Solutions Architect – Associate** | AWS | 2026 | [Credly](https://www.credly.com/badges/26f2d025-f86f-4e5d-8b2f-54a1ee18e68c/public_url) |
 | Scrum Foundation (SFC) | SCRUMstudy | 2025 | [Verify](https://www.scrumstudy.com/certification/verify?type=SFC&number=1073117) |
-| English Certificate (C1/C2) | EF SET | 2026 | [View](https://cert.efset.org/en/WBBWFw) |
+| English Certificate (B2) | EF SET | 2026 | [View](https://cert.efset.org/en/WBBWFw) |
 | Linux Server Management for Developers | Udemy | 2024 | [View](https://udemy-certificate.s3.amazonaws.com/image/UC-b928de8d-836f-4bc9-9c8e-dd4ca87eb20f.jpg) |
 | React – The Complete Guide | Udemy | 2024 | [View](https://udemy-certificate.s3.amazonaws.com/pdf/UC-9f10c4c9-37fc-4a4e-becc-3a74679d0719.pdf) |
 | HTML, CSS & Bootstrap Masterclass | Udemy | 2024 | [View](https://udemy-certificate.s3.amazonaws.com/pdf/UC-c0c1edfe-377e-4a05-b3c9-59376b944b95.pdf) |
