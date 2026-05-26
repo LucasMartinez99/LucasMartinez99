@@ -90,6 +90,8 @@ A full-stack URL shortener built to production standards — not just a CRUD app
 
 <img height="180em" src="https://streak-stats.demolab.com?user=LucasMartinez99&theme=tokyonight&hide_border=true" />
 
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasMartinez99&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+
 ---
 
 ## 📫 Let's Connect
