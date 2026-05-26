@@ -19,7 +19,7 @@
 
 Backend developer focused on **Java 21 + Spring Boot 3**, with hands-on production experience in **AWS** and **Linux server administration**. I own systems end-to-end — from writing the code to deploying, monitoring, and recovering it.
 
-- 🔄 Leading the modernization of a flagship production app: replacing a PHP/MySQL/Bootstrap monolith with a containerized Spring Boot 3 + React/TypeScript stack, applying hexagonal architecture on both sides
+- 🔄 Preparing the rebuild of a flagship production app: replacing a PHP/MySQL/Bootstrap monolith with a Spring Boot 3 + React/TypeScript stack (case study)
 - 🔭 Building portfolio projects with hexagonal architecture, PostgreSQL, and Docker
 - ☁️ AWS Certified Solutions Architect — running EC2, S3, CloudFront, VPC, RDS in production
 - 🐧 Managing Linux VPS environments: backups, snapshots, cron automation, hardening
